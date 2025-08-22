@@ -1,4 +1,4 @@
-#22.Write a program that receives two numbers in a function and 
+#2.Write a program that receives two numbers in a function and 
 # returns the results of all arithmetic operations ( +, - , *, / , % ) on these numbers.
 
 def arithmetic_operations(num1, num2):
